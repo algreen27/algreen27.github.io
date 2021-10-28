@@ -12,20 +12,20 @@ h1{
     font-size:xx-large;
 }
 
-h2{
+p{
     font-family:'Times New Roman', Times, serif;
-    font-weight: 400;
-    font-size: small;
+    font-weight:400;
+    font-size:medium;
 }
-h1,h2{
+h1,p{
     padding: 5px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
-IMG.displayed{
-    display: block;
+img.displayed{
+    display:block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 30px
+    border-radius: 30px;
 }
