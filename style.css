@@ -13,19 +13,23 @@ h1{
 }
 
 p{
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Courier New', Courier, monospace
     font-weight:400;
     font-size:medium;
+    text-align::content;
 }
-h1,p{
+h1{
     padding: 5px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
-img.displayed{
+ img.displayed{
     display:block;
-    margin-left: auto;
+    margin-left:auto;
     margin-right: auto;
     border-radius: 30px;
+} 
+.p-a {
+    padding: 10rem;
 }
