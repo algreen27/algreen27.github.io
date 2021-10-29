@@ -13,10 +13,13 @@ h1{
 }
 
 p{
-    font-family:'Courier New', Courier, monospace
-    font-weight:400;
-    font-size:medium;
-    text-align::content;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size:large;
+    text-align:content;
+    padding: 70px 0;
+    
+    
 }
 h1{
     padding: 5px;
